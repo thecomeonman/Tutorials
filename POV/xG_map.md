@@ -1,6 +1,6 @@
 This tutorial will teach you how to make something like this -
 
-![](POV_tutorial_files/figure-markdown_strict/chunk_01200-1.png)
+![](xG_map_files/figure-markdown_strict/chunk_01200-1.png)
 
 ## Prerequisites
 
@@ -63,7 +63,7 @@ Just a simple 2D pitch.
 
     print(p00100)
 
-![](POV_tutorial_files/figure-markdown_strict/chunk_00100-1.png)
+![](xG_map_files/figure-markdown_strict/chunk_00100-1.png)
 
 A simple 2D pitch but slightly different looking than the earlier plain
 one.
@@ -96,7 +96,7 @@ one.
 
     print(p00200)
 
-![](POV_tutorial_files/figure-markdown_strict/chunk_00200-1.png)
+![](xG_map_files/figure-markdown_strict/chunk_00200-1.png)
 
 Some other comsetic details about the plot.
 
@@ -119,7 +119,7 @@ Some other comsetic details about the plot.
 
     print(p00300)
 
-![](POV_tutorial_files/figure-markdown_strict/chunk_00300-1.png)
+![](xG_map_files/figure-markdown_strict/chunk_00300-1.png)
 
 3D-ifying the pitch. Note how the goal frames are sort of poking out
 above the pitch now.
@@ -167,7 +167,7 @@ on the z coordinate.
 
     print(p00333)
 
-![](POV_tutorial_files/figure-markdown_strict/chunk_00333-1.png)
+![](xG_map_files/figure-markdown_strict/chunk_00333-1.png)
 
 3D-ifying the pitch with the right view.
 
@@ -214,7 +214,7 @@ like the goal net is behind.
 
     print(p00366)
 
-![](POV_tutorial_files/figure-markdown_strict/chunk_00366-1.png)
+![](xG_map_files/figure-markdown_strict/chunk_00366-1.png)
 
 3D-ifying the pitch with the right view and reducing the area of view
 
@@ -247,7 +247,7 @@ like the goal net is behind.
 
     print(p00400)
 
-![](POV_tutorial_files/figure-markdown_strict/chunk_00400-1.png)
+![](xG_map_files/figure-markdown_strict/chunk_00400-1.png)
 
 Adding shot data in 2D. We can’t see the legend but we don’t care for
 that as you’ll see in the later sections.
@@ -317,7 +317,7 @@ that as you’ll see in the later sections.
 
     print(p00500)
 
-![](POV_tutorial_files/figure-markdown_strict/chunk_00500-1.png)
+![](xG_map_files/figure-markdown_strict/chunk_00500-1.png)
 
 Converting the shot points to shot circles.
 
@@ -371,7 +371,7 @@ Converting the shot points to shot circles.
 
     print(p00600)
 
-![](POV_tutorial_files/figure-markdown_strict/chunk_00600-1.png)
+![](xG_map_files/figure-markdown_strict/chunk_00600-1.png)
 
 3D-ifying the shot circles.
 
@@ -439,7 +439,7 @@ Converting the shot points to shot circles.
 
     print(p00700)
 
-![](POV_tutorial_files/figure-markdown_strict/chunk_00700-1.png)
+![](xG_map_files/figure-markdown_strict/chunk_00700-1.png)
 
 Some more cosmetic details of the shots.
 
@@ -475,7 +475,7 @@ Some more cosmetic details of the shots.
 
     print(p00800)
 
-![](POV_tutorial_files/figure-markdown_strict/chunk_00800-1.png)
+![](xG_map_files/figure-markdown_strict/chunk_00800-1.png)
 
 Adding the shot’s goalmouth coordinates also if the data is available.
 
@@ -563,7 +563,7 @@ Adding the shot’s goalmouth coordinates also if the data is available.
 
     }
 
-![](POV_tutorial_files/figure-markdown_strict/chunk_00900-1.png)
+![](xG_map_files/figure-markdown_strict/chunk_00900-1.png)
 
 And connecting the line segment from the shot coordinates on the ground
 to the shot coordinates on the goalmouth.
@@ -630,7 +630,7 @@ to the shot coordinates on the goalmouth.
 
     }
 
-![](POV_tutorial_files/figure-markdown_strict/chunk_01000-1.png)
+![](xG_map_files/figure-markdown_strict/chunk_01000-1.png)
 
 Here’s one with just the goalmouth stuff, like how some goalkeeper
 visualisations are.
@@ -778,7 +778,7 @@ visualisations are.
 
     ## Coordinate system already present. Adding new coordinate system, which will replace the existing one.
 
-![](POV_tutorial_files/figure-markdown_strict/chunk_01100-1.png)
+![](xG_map_files/figure-markdown_strict/chunk_01100-1.png)
 
 We removed the legend earlier so we still need a legend. The 3d-ifying
 things makes it a little hard to give a very precisely mappable legend
@@ -913,7 +913,7 @@ which you are free to try out though.
 
     print(p01200)
 
-![](POV_tutorial_files/figure-markdown_strict/chunk_01200-1.png)
+![](xG_map_files/figure-markdown_strict/chunk_01200-1.png)
 
 This is still a regular ggplot so you can use regular ggplot
 functionality to add more things to this, eg. you could add the name of

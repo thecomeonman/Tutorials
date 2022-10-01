@@ -5,7 +5,7 @@ output: md_document
 
 This tutorial will teach you how to make something like this -
 
-![](POV_tutorial_files/figure-markdown_strict/chunk_01200-1.png)
+![](xG_map_files/figure-markdown_strict/chunk_01200-1.png)
 
 
 ## Prerequisites
