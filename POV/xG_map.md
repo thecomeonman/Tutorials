@@ -34,8 +34,9 @@ it, which is also why I haven’t written this one for so long. Everything
 you dislike about the tutorial can be attributed to that. Hopefully it
 still makes sense to you and is useful though.
 
-If there are bits you think can do with some more explaining then you
-can tweet to me @thecomeonman.
+If there are bits you think can do with some more explaining then you can
+tweet to me [here](https://twitter.com/thecomeonman/status/1576181043144511489).
+
 
 ## Tutorial
 
